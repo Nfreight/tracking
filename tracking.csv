@@ -1,0 +1,3 @@
+﻿AWB,HAWB,Reference,Airline,Flight,Origin,Destination,Pieces,Gross Weight,Chargeable Weight,Status,Last Update
+176-61734665,NF250701,REF001,Emirates,EK185,DXB,BCN,2,1188 KG,1188 KG,Flight Departed,02/07/2026 9:15
+176-61734666,NF250702,REF002,Qatar Airways,QR101,DXB,LHR,1,250 KG,250 KG,Cargo Received,02/07/2026 10:00
