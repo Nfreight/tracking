@@ -1,0 +1,4 @@
+AWB,HAWB,Reference,Airline,Flight,Origin,Destination,Pieces,Gross Weight,Chargeable Weight,Status,Last Update
+176-12345678,HAWB001,REF001,Emirates,EK010,DXB,CAI,5,120,135,Departed,02-Jul-26
+176-61734665,-,J20032600730,Emirates,EK020,DXB,MRU,2,1188,1188,Arrived ,02-Jul-26
+,,,,,,,,,,,
